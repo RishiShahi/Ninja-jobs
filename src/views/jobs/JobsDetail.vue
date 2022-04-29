@@ -1,6 +1,7 @@
 <template>
   <h1>Jobs Detail Page</h1>
   <p>The route id: {{id}}</p>
+  <h2>Helo this suresh</h2>
 </template>
 
 <script>
