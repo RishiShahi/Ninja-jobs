@@ -11,9 +11,9 @@ export default {
    data() {
        return {
            items: [
-               {id: 1, title: 'Web Designer', detail: 'Lorem'},
+               {id: 1, title: 'Web Designer', detail: 'Lorem'},               
                {id: 2, title: 'UX Designer', detail: 'Lorem'},
-               {id: 3, title: 'Front-end Developer', detail: 'Lorem'}
+               {id: 4, title: 'Front-end Developer', detail: 'Lorem'}
            ]
 
        }
